@@ -193,6 +193,6 @@ graph TD
     ```
 3.  **Week 3:** When you get your Railway URL, just update the `[PASTE_YOUR_RAILWAY_URL_HERE]` placeholder\!
 
-Would you like me to help you set up the **Procfile** now so your Railway deployment is ready?
+
 
 ```
